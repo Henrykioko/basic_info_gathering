@@ -21,7 +21,7 @@ A simple Bash script for basic reconnaissance during penetration testing.
 ### Step 1: Clone the repository
 ```bash
 git clone https://github.com/Henrykioko/basic_info_gathering
-cd infogathering
+cd basic_info_gathering
 
 Step 2: Give the script execution permissions
 
