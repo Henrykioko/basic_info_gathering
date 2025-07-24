@@ -11,7 +11,8 @@ A simple Bash script for basic reconnaissance during penetration testing.
 ## Features
 
 - Takes a domain and resolves its IP using `nslookup`
-- Prompts the user to input an IP address
+- Identifies technologies used by websites. It analyzes HTTP headers, HTML content, and other web components to determine the software, CMS, frameworks, and other technologies a website is built with.
+- Provides information about the registration of domain names and IP addresses. It also provides contact information for the domain's owner and registrar
 - Scans the target IP using `nmap` to detect open ports and services
 
 ---
