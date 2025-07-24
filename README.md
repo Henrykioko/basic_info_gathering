@@ -4,7 +4,7 @@ A simple Bash script for basic reconnaissance during penetration testing.
 
 ---
 ⚠️ DISCLAIMER!!!!!!
-
+.
     This tool is for educational purposes only.
     Do not use it on systems you do not have explicit permission to scan.
 
