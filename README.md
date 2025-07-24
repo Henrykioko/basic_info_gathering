@@ -19,11 +19,11 @@ A simple Bash script for basic reconnaissance during penetration testing.
 ## Usage
 
 ### Step 1: Clone the repository
-```
+```bash
 git clone https://github.com/Henrykioko/basic_info_gathering
 ```
 ----
-Step 2: Navigate to the directory
+### Step 2: Navigate to the directory
 ```
 cd basic_info_gathering
 ```
@@ -31,7 +31,7 @@ cd basic_info_gathering
 ```
 chmod +x infogathering.sh
 ```
-Step 3: Run the script
+###Step 3: Run the script
 ```
 ./infogathering.sh
 ```
