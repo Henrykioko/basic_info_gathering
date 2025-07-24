@@ -7,7 +7,7 @@ A simple Bash script for basic reconnaissance during penetration testing.
 .
     This tool is for educational purposes only.
     Do not use it on systems you do not have explicit permission to scan.
-
+---
 ## Features
 
 - Takes a domain and resolves its IP using `nslookup`
@@ -30,8 +30,8 @@ cd basic_info_gathering
 ### Step 3: Give the script execution permissions
 ```
 chmod +x infogathering.sh
-```
-###Step 3: Run the script
-```
+``` 
+### Step 3: Run the script
+``` 
 ./infogathering.sh
 ```
